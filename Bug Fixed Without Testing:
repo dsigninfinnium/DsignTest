@@ -1,0 +1,1 @@
+A developer marks a bug as “fixed” without actually verifying it properly. The QA tests the same scenario again and finds the issue still present, sometimes even worse than before. This creates a cycle where the same bug keeps getting reopened, making everyone question reality.
